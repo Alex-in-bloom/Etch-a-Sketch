@@ -1,15 +1,20 @@
+body {
+    background-color: rgb(216, 128, 29);
+}
+
 button {
     position: relative;
     left: 590px;
     top: 20px;
     width: 100px;
     height: 40px;
+    background-color: rgb(129, 129, 163);
 }
 
 
 #box {
     position: relative;
-    background-color: blue;
+    background-color: rgb(2, 3, 3);
     width: 480px;
     height: 480px;
     left: 400px;
@@ -24,7 +29,7 @@ button {
 
 .pixle {
     /* position: relative; */
-    background-color: yellow;
+    background-color: black;
     float: left;
 }
 
