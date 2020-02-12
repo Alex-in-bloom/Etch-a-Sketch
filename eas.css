@@ -1,0 +1,33 @@
+button {
+    position: relative;
+    left: 590px;
+    top: 20px;
+    width: 100px;
+    height: 40px;
+}
+
+
+#box {
+    position: relative;
+    background-color: blue;
+    width: 480px;
+    height: 480px;
+    left: 400px;
+    top: 50px;
+}
+
+.row {
+    border: 0px;
+    width: 480px;
+    background-color: black;
+}
+
+.pixle {
+    /* position: relative; */
+    background-color: yellow;
+    float: left;
+}
+
+.hovered {
+    float: left;
+}
